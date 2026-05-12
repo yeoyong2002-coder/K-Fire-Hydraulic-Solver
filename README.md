@@ -1,3 +1,4 @@
+<img width="1102" height="602" alt="a" src="https://github.com/user-attachments/assets/c85c54b2-e9fa-4c06-a1c1-c1b9064d6383" />
 # K-Fire Hydraulic Solver
 
 **스프링클러 설비 수리계산 프로그램 | Sprinkler System Hydraulic Calculation Software**
