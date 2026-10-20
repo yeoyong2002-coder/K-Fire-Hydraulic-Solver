@@ -21,12 +21,13 @@
 
 ## 기술문서 | Technical Reference
 
-설치 파일과 함께 공개하는 Engineering Overview PDF입니다. 새 버전이 배포되어도 이 폴더의 파일은 유지·갱신됩니다.
+설치 파일과 함께 공개하는 기술문서 PDF입니다. 새 버전이 배포되어도 이 폴더의 파일은 유지·갱신됩니다.
 
 | 문서 | 한국어 | English |
 |------|--------|---------|
 | 수리계산 | [PDF](docs/K-Fire_Hydraulic_Engineering_Overview_ko.pdf) | [PDF](docs/K-Fire_Hydraulic_Engineering_Overview_en.pdf) |
 | 물도달시간 (WDT) | [PDF](docs/K-Fire_WDT_Engineering_Overview_ko.pdf) | [PDF](docs/K-Fire_WDT_Engineering_Overview_en.pdf) |
+| PIPENET 비교검증보고서 | [PDF](docs/K-Fire_PIPENET_Verification_Report_ko.pdf) | [PDF](docs/K-Fire_PIPENET_Verification_Report_en.pdf) |
 
 > 출력물 워터마크를 제외하면 **기능 제한 없이 무료**로 전체 기능을 사용할 수 있습니다.
 >
