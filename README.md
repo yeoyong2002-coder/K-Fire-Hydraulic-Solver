@@ -27,7 +27,7 @@
 |------|--------|---------|
 | 수리계산 | [PDF](docs/K-Fire_Hydraulic_Engineering_Overview_ko.pdf) | [PDF](docs/K-Fire_Hydraulic_Engineering_Overview_en.pdf) |
 | 물도달시간 (WDT) | [PDF](docs/K-Fire_WDT_Engineering_Overview_ko.pdf) | [PDF](docs/K-Fire_WDT_Engineering_Overview_en.pdf) |
-| PIPENET 비교검증보고서 | [PDF](docs/K-Fire_PIPENET_Verification_Report_ko.pdf) | [PDF](docs/K-Fire_PIPENET_Verification_Report_en.pdf) |
+| 검증보고서 | [PDF](docs/K-Fire_Verification_Report_ko.pdf) | [PDF](docs/K-Fire_Verification_Report_en.pdf) |
 
 > 출력물 워터마크를 제외하면 **기능 제한 없이 무료**로 전체 기능을 사용할 수 있습니다.
 >
