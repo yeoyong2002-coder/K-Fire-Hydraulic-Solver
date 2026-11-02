@@ -3,7 +3,7 @@
 
 **스프링클러 설비 수리계산 프로그램 | Sprinkler System Hydraulic Calculation Software**
 
-[![Download](https://img.shields.io/badge/Download-v5.5.8-blue?style=for-the-badge)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)
+[![Download](https://img.shields.io/badge/Download-v6.5.0-blue?style=for-the-badge)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)
 [![YouTube](https://img.shields.io/badge/YouTube-매뉴얼-red?style=for-the-badge)](https://www.youtube.com/watch?v=O6e3KqmXO40&list=PLJIPkrm6MfQk)
 [![Blog](https://img.shields.io/badge/Blog-소개글-orange?style=for-the-badge)](https://firesafety.tistory.com/180)
 
@@ -11,7 +11,7 @@
 
 ## 다운로드 | Download
 
-**[최신 버전 다운로드 (v5.5.8)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)**
+**[최신 버전 다운로드 (v6.5.0)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)**
 
 ## 사용자 매뉴얼 | User Manual
 
@@ -53,7 +53,20 @@ Files created in versions prior to V2.4.2 may not be compatible, or the fittings
 
 ## 버전별 주요 업그레이드 내역 | Version History
 
-### V5.5.8 (최신 | Latest)
+### V6.5.0 (최신 | Latest)
+
+- 릴리프밸브 및 정유량밸브 추가
+- 자주 쓰는 배관 모양을 저장해 두고 어느 도면에서든 붙이기(기본 블럭 9개 포함)
+- 배관 자유 각도 및 회전 구현
+- 2D에서 그리는 대로 3D 보기에 (실시간) 반영
+- 사용자 편의 기능 대폭 개선 및 자잘한 버그 수정
+- Relief valve and constant flow valve added
+- Save frequently used pipe layouts and paste them into any drawing (9 default blocks included)
+- Pipes at any angle, with rotation
+- Drawing in 2D is reflected in the 3D view (in real time)
+- Major usability improvements and minor bug fixes
+
+### V5.5.8
 
 - 배관 우클릭으로 흐름 방향 뒤집기
 - 헤드 다중선택 시 규격과 상태를 따로 변경
