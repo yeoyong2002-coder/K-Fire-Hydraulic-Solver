@@ -3,7 +3,7 @@
 
 **스프링클러 설비 수리계산 프로그램 | Sprinkler System Hydraulic Calculation Software**
 
-[![Download](https://img.shields.io/badge/Download-v6.5.0-blue?style=for-the-badge)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)
+[![Download](https://img.shields.io/badge/Download-v6.6.0-blue?style=for-the-badge)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)
 [![YouTube](https://img.shields.io/badge/YouTube-매뉴얼-red?style=for-the-badge)](https://www.youtube.com/watch?v=O6e3KqmXO40&list=PLJIPkrm6MfQk)
 [![Blog](https://img.shields.io/badge/Blog-소개글-orange?style=for-the-badge)](https://firesafety.tistory.com/180)
 
@@ -11,7 +11,7 @@
 
 ## 다운로드 | Download
 
-**[최신 버전 다운로드 (v6.5.0)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)**
+**[최신 버전 다운로드 (v6.6.0)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)**
 
 ## 사용자 매뉴얼 | User Manual
 
@@ -53,7 +53,16 @@ Files created in versions prior to V2.4.2 may not be compatible, or the fittings
 
 ## 버전별 주요 업그레이드 내역 | Version History
 
-### V6.5.0 (최신 | Latest)
+### V6.6.0 (최신 | Latest)
+
+- 대규모 배관 작업 시 편의를 위한 노드 크기 조절 기능
+- 대규모 배관 작업 시 도면의 확대·축소·이동 속도 2~4배 향상
+- 자잘한 버그 수정 및 사용자 편의성 확대
+- Adjustable node size for easier work on large piping networks
+- Zooming and panning 2–4× faster on large piping networks
+- Minor bug fixes and improved usability
+
+### V6.5.0
 
 - 릴리프밸브 및 정유량밸브 추가
 - 자주 쓰는 배관 모양을 저장해 두고 어느 도면에서든 붙이기(기본 블럭 9개 포함)
