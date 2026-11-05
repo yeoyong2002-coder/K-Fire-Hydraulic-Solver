@@ -3,7 +3,7 @@
 
 **스프링클러 설비 수리계산 프로그램 | Sprinkler System Hydraulic Calculation Software**
 
-[![Download](https://img.shields.io/badge/Download-v6.6.0-blue?style=for-the-badge)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)
+[![Download](https://img.shields.io/badge/Download-v6.8.0-blue?style=for-the-badge)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)
 [![YouTube](https://img.shields.io/badge/YouTube-매뉴얼-red?style=for-the-badge)](https://www.youtube.com/watch?v=O6e3KqmXO40&list=PLJIPkrm6MfQk)
 [![Blog](https://img.shields.io/badge/Blog-소개글-orange?style=for-the-badge)](https://firesafety.tistory.com/180)
 
@@ -11,7 +11,7 @@
 
 ## 다운로드 | Download
 
-**[최신 버전 다운로드 (v6.6.0)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)**
+**[최신 버전 다운로드 (v6.8.0)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)**
 
 ## 사용자 매뉴얼 | User Manual
 
@@ -53,7 +53,18 @@ Files created in versions prior to V2.4.2 may not be compatible, or the fittings
 
 ## 버전별 주요 업그레이드 내역 | Version History
 
-### V6.6.0 (최신 | Latest)
+### V6.8.0 (최신 | Latest)
+
+- 마우스 근접시 배관과 노드 자동 선택 표시
+- 작업처리속도 향상
+- 휴식시간 알림
+- 자잘한 버그 수정 및 사용자 편의성 확대
+- Pipes and nodes are automatically highlighted for selection when the mouse is near
+- Faster work processing speed
+- Break time reminder
+- Minor bug fixes and improved usability
+
+### V6.6.0
 
 - 대규모 배관 작업 시 편의를 위한 노드 크기 조절 기능
 - 대규모 배관 작업 시 도면의 확대·축소·이동 속도 2~4배 향상
