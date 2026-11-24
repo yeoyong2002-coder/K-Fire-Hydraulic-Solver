@@ -3,7 +3,7 @@
 
 **스프링클러 설비 수리계산 프로그램 | Sprinkler System Hydraulic Calculation Software**
 
-[![Download](https://img.shields.io/badge/Download-v6.9.1-blue?style=for-the-badge)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)
+[![Download](https://img.shields.io/badge/Download-v7.1.1-blue?style=for-the-badge)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)
 [![YouTube](https://img.shields.io/badge/YouTube-매뉴얼-red?style=for-the-badge)](https://www.youtube.com/watch?v=O6e3KqmXO40&list=PLJIPkrm6MfQk)
 [![Blog](https://img.shields.io/badge/Blog-소개글-orange?style=for-the-badge)](https://firesafety.tistory.com/180)
 
@@ -11,7 +11,7 @@
 
 ## 다운로드 | Download
 
-**[최신 버전 다운로드 (v6.9.1)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)**
+**[최신 버전 다운로드 (v7.1.1)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)**
 
 ## 사용자 매뉴얼 | User Manual
 
@@ -53,7 +53,16 @@ Files created in versions prior to V2.4.2 may not be compatible, or the fittings
 
 ## 버전별 주요 업그레이드 내역 | Version History
 
-### V6.9.1 (최신 | Latest)
+### V7.1.1 (최신 | Latest)
+
+- 헤드와 노즐 각각 설계압력 지정이 가능
+- 노즐 DB 압력·유량 입력 시 K값 자동 반영방식으로 변경
+- 사용방법 개선 등
+- Individual design pressure can now be set for each head and nozzle
+- Nozzle DB now auto-calculates K-factor from pressure and flow inputs
+- Usability improvements and bug fixes
+
+### V6.9.1
 
 - 창고 스프링클러 전용 툴 추가
 - 3D뷰어와 2D 연동 기능 강화
