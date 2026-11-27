@@ -3,7 +3,7 @@
 
 **스프링클러 설비 수리계산 프로그램 | Sprinkler System Hydraulic Calculation Software**
 
-[![Download](https://img.shields.io/badge/Download-v7.1.2-blue?style=for-the-badge)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)
+[![Download](https://img.shields.io/badge/Download-v7.2.0-blue?style=for-the-badge)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)
 [![YouTube](https://img.shields.io/badge/YouTube-매뉴얼-red?style=for-the-badge)](https://www.youtube.com/watch?v=O6e3KqmXO40&list=PLJIPkrm6MfQk)
 [![Blog](https://img.shields.io/badge/Blog-소개글-orange?style=for-the-badge)](https://firesafety.tistory.com/180)
 
@@ -11,7 +11,7 @@
 
 ## 다운로드 | Download
 
-**[최신 버전 다운로드 (v7.1.2)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)**
+**[최신 버전 다운로드 (v7.2.0)](https://github.com/yeoyong2002-coder/K-Fire-Hydraulic-Solver/releases/latest)**
 
 ## 사용자 매뉴얼 | User Manual
 
@@ -53,7 +53,16 @@ Files created in versions prior to V2.4.2 may not be compatible, or the fittings
 
 ## 버전별 주요 업그레이드 내역 | Version History
 
-### V7.1.2 (최신 | Latest)
+### V7.2.0 (최신 | Latest)
+
+- 싱글인터락 물도달 계산 결과 동영상 개선
+- 다양한 화면배율 대응 가능한 프로그램 화면최적화
+- 프로그램 최적화 및 편의사항 개선
+- Improved single-interlock water delivery result video
+- Optimized program display for various screen scaling settings
+- Program optimization and usability improvements
+
+### V7.1.2
 
 - 헤드와 노즐 각각 설계압력 지정이 가능
 - 노즐 DB 압력·유량 입력 시 K값 자동 반영방식으로 변경
